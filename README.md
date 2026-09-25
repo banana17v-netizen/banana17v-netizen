@@ -20,7 +20,6 @@
 - Enjoy building **end-to-end applications**, from data preparation to models and interactive tools
 - Comfortable exploring unfamiliar codebases, integrating APIs, and **debugging**
 - Care about **clarity, rigor, and reproducibility**
-- Open to practical open-source collaboration — reach me at [banana17.v@gmail.com](mailto:banana17.v@gmail.com)
 
 <br>
 
